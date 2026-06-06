@@ -7,4 +7,8 @@ name="Nabeel Hashmi"
 print(num)
 print(f)
 print(name)
-
+#creating compound asignment statement 
+a,b,c=12,2.15,"HELLO"
+print(a) #printing the value of a
+print(b) #printing the value of b
+print(c) #printing the value of c
