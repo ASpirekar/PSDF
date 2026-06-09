@@ -23,3 +23,28 @@ animals[1]=10
 animals[4]="sparrow"
 
 print(animals)
+
+
+#Adding ItemsUse these essential methods to expand your list:
+colors=[]
+colors.append("yellow")
+colors.append(10)
+print(colors)
+print(colors.append(4))
+
+
+#insert method
+colors.insert(0,"seegreen")
+print(colors)
+
+#extend method
+colors.extend(animals)
+print(colors)
+
+#length of list checking
+print(len(colors))
+
+#Remove method in list by value
+colors.remove(10)
+print(colors)
+print(colors.pop(4))
