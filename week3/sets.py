@@ -1,22 +1,4 @@
-# Assignmemnt for dictionary
-"""details={
-    "table":("A furniture item","List of facts and figures"),
-    "cat":"A type of animal"
-}"""
-
-# print(details["table"])
-
-
-# WAP that enter marks of three subjects from the student and add into dictionary 
 """
-marks={}
-x=int(input("Enter physics marks:"))
-marks.update({"Phy":x})
-x=int(input("Enter Computer marks:"))
-marks.update({"Comp":x})
-x=int(input("Enter Math marks:"))
-marks.update({"Math":x})
-print(marks)
 set1={1,2,3,"Urdu","english","english"}
 set2=set()
 
